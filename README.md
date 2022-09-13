@@ -1,1 +1,12 @@
 # JD_JIRA_MASTER
+![image](https://user-images.githubusercontent.com/69948118/189851491-ed75d6b1-bf41-4799-a0f5-55d7622243b0.png)
+![image](https://user-images.githubusercontent.com/69948118/189852621-7687e5af-a15b-4f41-93c3-f21a27577bc1.png)
+![image](https://user-images.githubusercontent.com/69948118/189852622-d13da84a-f0d2-405c-9b96-ff8fb8af214c.png)
+![image](https://user-images.githubusercontent.com/69948118/189852713-7efd0fdb-ee49-44c2-bbf5-76f917b0bb13.png)
+![image](https://user-images.githubusercontent.com/69948118/189852761-b94e41fe-918c-48ea-9725-6b8aef4de795.png)
+![image](https://user-images.githubusercontent.com/69948118/189852881-ab16a498-1ab7-4038-8b52-6ce39af7888d.png)
+![image](https://user-images.githubusercontent.com/69948118/189853445-dbfa5e7e-6b32-4ae6-bc08-92ebeb817ffc.png)
+![image](https://user-images.githubusercontent.com/69948118/189853752-ab517ae2-a2dd-444b-a31b-2313eb08ec1a.png)
+![image](https://user-images.githubusercontent.com/69948118/189853857-68921ca6-c766-426b-aef6-851b900c11fc.png)
+![image](https://user-images.githubusercontent.com/69948118/189853963-f2b4b3e8-b5bc-49d2-b490-a000b53331c5.png)
+![image](https://user-images.githubusercontent.com/69948118/189854137-4f15cd8b-023e-4b44-9f29-ab804caee71b.png)
